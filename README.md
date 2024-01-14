@@ -1,4 +1,6 @@
-### Hi 👋, I'm Saboor Bakshi, a Computer Science student at the University of Waterloo.
+Hey 👋
+I'm Saboor Bakshi, a Computer Science student at the University of Waterloo.
+Feel free to reach out on any of my socials.
 
 <!--
 **saboorbakshi/saboorbakshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
